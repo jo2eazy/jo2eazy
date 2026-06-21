@@ -6,7 +6,7 @@ Passionate about building security tools, automating systems, and learning deepl
 ---
 
 ### 🧩 About Me
-- 🐍 Learning **Python, Linux, Networking & Cybersecurity**
+- 🐍 Learning **Python, Linux, Networking & System Security**
 - ⚙️ Currently working on small **automation scripts & security tools**
 - 🎯 Goal: Become a **Cybersecurity Engineer**
 - 🌍 Based in **Dar es Salaam, Tanzania**
